@@ -56,17 +56,10 @@ The goal is to understand sales trends, find patterns in product categories and 
 
 
 
-## What I Learned
-- Hands-on practice with real-world sales data
-- Improved skills in data cleaning and exploratory data analysis (EDA)
-- Practical experience with visualization tools like box plots and violin plots
-- Developed a stronger understanding of connecting data analysis to business questions
-
-
 
 ## How to Run
 1. Clone this repository
-2. Open the notebook (`Group_4.ipynb`) in Google Colab or Jupyter Notebook
+2. Open the notebook in Google Colab or Jupyter Notebook
 3. Run the notebook cells step by step
 
 
