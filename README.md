@@ -10,7 +10,7 @@ The goal is to understand sales trends, find patterns in product categories and 
 
 
 ##  Data Used
-- **Source:** [Kaggle - Footwear Sales Dataset](https://www.kaggle.com/datasets/abdullahlahaji/footware-sales)
+- **Source:** [Kaggle - Footwear Sales Dataset](http://kaggle.com/datasets/abdullahlahaji/footware-sales-dataset)
 - **Format:** CSV
 
 
